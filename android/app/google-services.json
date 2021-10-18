@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "824529257188",
+    "project_id": "iwakap--signin",
+    "storage_bucket": "iwakap--signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824529257188:android:e44d4ada75df724dd862f1",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824529257188-ccbocqnk0edbdcjcpqvqc99hntqlrrbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.first_app",
+            "certificate_hash": "b559b089b3d0733a7e358ba5931665dede473a4a"
+          }
+        },
+        {
+          "client_id": "824529257188-lqu7t5luee3lt0umk5l16p5hgsep1lf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9gPvh3aSjirq58uIL-Rnj6AqNVVcTyRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824529257188-lqu7t5luee3lt0umk5l16p5hgsep1lf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
